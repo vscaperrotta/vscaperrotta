@@ -1,7 +1,7 @@
 # Hello there
 
 - 👋 Hi, I’m Vittorio
-- 🌱 I’m currently learning...a lot of thinkgs
+- 🌱 I’m currently learning...a lot of things
 - 📫 How to reach me vittorio.scaperrotta@gmail.com
 
 ## 📊 GitHub Stats
