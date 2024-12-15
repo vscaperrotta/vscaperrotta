@@ -1,6 +1,6 @@
 # Hello there
 
-- 👋 Hi, I’m Vittorio
+👋 Hi, I’m Vittorio
 <!-- - 📫 How to reach me vittorio.scaperrotta@gmail.com-->
 
 ## 📊 GitHub Stats
