@@ -1,7 +1,7 @@
 # Hello there
 
 - 👋 Hi, I’m Vittorio
-- 📫 How to reach me vittorio.scaperrotta@gmail.com
+<!-- - 📫 How to reach me vittorio.scaperrotta@gmail.com-->
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vscaperrotta&show_icons=true&theme=radical)
