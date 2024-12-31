@@ -6,6 +6,15 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vscaperrotta&show_icons=true&theme=radical)
 
+## My Pet Farm
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/vscaperrotta?pet-id=661874407505116792"
+    width="300"
+    height="150"
+  />
+</a>  
+
 ## 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <p align="left">
 
