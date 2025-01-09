@@ -1,7 +1,10 @@
 # Hello there
 
 👋 Hi, I’m Vittorio, Frontend developer from Italy.
-<!-- - 📫 How to reach me vittorio.scaperrotta@gmail.com-->
+
+Here you can visit my [portfolio](https://www.vittorioscaperrotta.dev/).
+
+Contant me via [linkedin](https://www.linkedin.com/in/vittorio-scaperrotta/).
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vscaperrotta&show_icons=true&theme=radical)
