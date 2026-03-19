@@ -1,10 +1,11 @@
 ### Hello there
 
 👋 Hi, I’m Vittorio, Frontend developer from Italy.
-I have only been in the world of development for a few years but I find it incredible the possibilities and potential I have unlocked since I started programming! Here you can visit my [portfolio](https://vittorioscaperrotta.me/projects).
+I have only been in the world of development for a few years but I find it incredible the possibilities and potential I have unlocked since I started programming!
+<!-- Here you can visit my [portfolio](https://vittorioscaperrotta.me/projects).
 
 Contant me via [linkedin](https://www.linkedin.com/in/vittorio-scaperrotta/).
-
+-->
 <!--
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vscaperrotta&show_icons=true&theme=radical)
